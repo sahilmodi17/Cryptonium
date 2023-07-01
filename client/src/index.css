@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg1{
+    background-image: url("../src/assets/bg-2.jpg");
+    /* opacity: 0.95; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 52vh;
+    
+}
+
+body{
+    background-color: rgb(31 41 55);
+}
